@@ -10,6 +10,7 @@ The works utilize such methods, as:
 - [Random Forest Regression](https://github.com/tuskenmax/machine-learning-course/blob/main/RandomForest_Regression.py)
 - [Classification](https://github.com/tuskenmax/machine-learning-course/blob/main/RandomForest_Regression.py)
 - [Clustering](https://github.com/tuskenmax/machine-learning-course/blob/main/Iris_clustering.py)
+- [Multilayer Perceptron](https://github.com/tuskenmax/machine-learning-course/blob/main/Percepron_mnist.ipynb)
 
-The most important project is focused on NLP for text classification - it can detect whether a message was spam or not.
+One more project uses NLP for text classification - it can detect whether a message was spam or not.
 - [Spam detection](https://github.com/tuskenmax/machine-learning-course/blob/main/spam_detection.ipynb)
